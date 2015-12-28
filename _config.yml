@@ -1,0 +1,28 @@
+name: radjay
+favicon: null
+layout_spectrum: 0.5044583913404495
+typography_spectrum: 0.18337352853268385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7668983284384012
+  lightness: 0.45913619501516223
+  saturation: 0.7447333408053964
+  rhythmicContrast: 0.4049624118488282
+purpose: []
